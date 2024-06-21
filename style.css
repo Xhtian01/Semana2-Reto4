@@ -1,0 +1,47 @@
+body {
+  background-color: #1e1e1e;
+}
+
+* {
+  color: #fff;
+}
+
+header h1 {
+  color: #b92727;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+a {
+  text-decoration: none;
+}
+
+header a {
+  font-size: 18px;
+}
+
+section header {
+  background-color: #882727;
+}
+
+section > p {
+  color: #d7d7d7;
+  font-size: 20px;
+  font-family: 'Segoe UI';
+}
+
+article > p {
+  color: #d7c3c3;
+  font-size: 18px;
+  font-family: 'Gill Sans';
+}
+
+article footer a {
+  font-size: 13px;
+  font-weight: bold;
+}
+
+footer p {
+  font-size: 14px;
+  text-align: center;
+}
